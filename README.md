@@ -7,6 +7,7 @@
 --- Warning ---
 
 ​Many Antiviruses may detect this as it is self extracting
+
 ​Commands are in lowercase
 
 --- Links ---
